@@ -1,0 +1,207 @@
+[
+  {
+    "id": "r001",
+    "name": "Kerala Fish Curry with Rice",
+    "category": "lunch",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f012",
+        "foodName": "Kerala Rice (Boiled)",
+        "quantity": 200
+      },
+      {
+        "foodId": "f013",
+        "foodName": "Fish Curry (Meen Curry)",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "id": "r002",
+    "name": "Chicken Roast with Parotta",
+    "category": "dinner",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f007",
+        "foodName": "Parotta",
+        "quantity": 150
+      },
+      {
+        "foodId": "f014",
+        "foodName": "Chicken Curry",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "id": "r003",
+    "name": "Avial with Rice",
+    "category": "lunch",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f012",
+        "foodName": "Kerala Rice (Boiled)",
+        "quantity": 200
+      },
+      {
+        "foodId": "f015",
+        "foodName": "Avial",
+        "quantity": 150
+      },
+      {
+        "foodId": "f010",
+        "foodName": "Sambar",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": "r004",
+    "name": "Beef Fry Meal",
+    "category": "lunch",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f012",
+        "foodName": "Kerala Rice (Boiled)",
+        "quantity": 200
+      },
+      {
+        "foodId": "f021",
+        "foodName": "Beef Fry (Kerala Style)",
+        "quantity": 100
+      },
+      {
+        "foodId": "f016",
+        "foodName": "Thoran (Cabbage)",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": "r005",
+    "name": "Egg Roast with Chapathi",
+    "category": "dinner",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f022",
+        "foodName": "Chapathi",
+        "quantity": 100
+      },
+      {
+        "foodId": "f024",
+        "foodName": "Egg Roast",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "id": "r006",
+    "name": "Sambar Rice",
+    "category": "lunch",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f012",
+        "foodName": "Kerala Rice (Boiled)",
+        "quantity": 200
+      },
+      {
+        "foodId": "f010",
+        "foodName": "Sambar",
+        "quantity": 150
+      },
+      {
+        "foodId": "f019",
+        "foodName": "Curd (Plain Yogurt)",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": "r007",
+    "name": "Appam with Kadala Curry",
+    "category": "breakfast",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f001",
+        "foodName": "Appam",
+        "quantity": 150
+      },
+      {
+        "foodId": "f009",
+        "foodName": "Kadala Curry",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "id": "r008",
+    "name": "Puttu with Banana",
+    "category": "breakfast",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f002",
+        "foodName": "Puttu",
+        "quantity": 150
+      },
+      {
+        "foodId": "f031",
+        "foodName": "Banana (Ripe)",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": "r009",
+    "name": "Idli with Sambar and Chutney",
+    "category": "breakfast",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f005",
+        "foodName": "Idli",
+        "quantity": 150
+      },
+      {
+        "foodId": "f010",
+        "foodName": "Sambar",
+        "quantity": 100
+      },
+      {
+        "foodId": "f011",
+        "foodName": "Coconut Chutney",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "id": "r010",
+    "name": "Dosa with Sambar",
+    "category": "breakfast",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "f004",
+        "foodName": "Dosa",
+        "quantity": 150
+      },
+      {
+        "foodId": "f010",
+        "foodName": "Sambar",
+        "quantity": 100
+      },
+      {
+        "foodId": "f011",
+        "foodName": "Coconut Chutney",
+        "quantity": 50
+      }
+    ]
+  }
+]
